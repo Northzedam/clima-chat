@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_950">#06162B</color>
+    <color name="navy_900">#071A33</color>
+    <color name="navy_800">#0B2342</color>
+    <color name="surface">#CC18375B</color>
+    <color name="surface_soft">#662F5D89</color>
+    <color name="line">#2CBBD9F4</color>
+    <color name="white">#F7FBFF</color>
+    <color name="muted">#A7BFDA</color>
+    <color name="accent">#61BDFF</color>
+    <color name="accent_dark">#338ED4</color>
+    <color name="sun">#FFD166</color>
+    <color name="error">#FFFFD1D1</color>
+    <color name="error_background">#522C283B</color>
+</resources>

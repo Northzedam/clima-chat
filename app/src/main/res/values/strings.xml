@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima Chat</string>
+    <string name="search_hint">Buscar una ciudad…</string>
+    <string name="search">Buscar</string>
+    <string name="refresh">Actualizar clima</string>
+    <string name="your_location">TU UBICACIÓN</string>
+    <string name="loading">Consultando el cielo…</string>
+    <string name="loading_detail">Estamos cargando el pronóstico.</string>
+    <string name="humidity">Humedad</string>
+    <string name="feels_like">Sensación</string>
+    <string name="wind">Viento</string>
+    <string name="next_days">PRÓXIMOS DÍAS</string>
+    <string name="five_day_forecast">Pronóstico de 5 días</string>
+    <string name="source">Datos meteorológicos proporcionados por Open-Meteo</string>
+    <string name="open_meteo">Open-Meteo</string>
+</resources>

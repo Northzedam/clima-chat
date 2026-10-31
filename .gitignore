@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.log
+.gradle/
+local.properties
+build/
+app/build/
+*.apk
+*.aab
